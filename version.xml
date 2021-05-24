@@ -12,8 +12,8 @@
 <version>
 	<application>textEditorExtras</application>
 	<type>plugins.generic</type>
-	<release>1.0.0.3</release>
-	<date>2021-02-02</date>
+	<release>1.0.0.4</release>
+	<date>2021-05-24</date>
 	<lazy-load>1</lazy-load>
 	<class>TextEditorExtrasPlugin</class>
 </version>
